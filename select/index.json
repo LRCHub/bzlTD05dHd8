@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Take me to the top",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T13:12:03.629163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/01_Take_Me_to_the_Top_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/02_Take_Me_to_the_Top_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me To The Top",
+      "artist": "Advance",
+      "has_synced": false,
+      "path": "select/03_Take_Me_To_The_Top_Advance.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "DJ Bobo",
+      "has_synced": true,
+      "path": "select/04_Take_Me_to_the_Top_DJ_Bobo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me To The Top",
+      "artist": "Samajona",
+      "has_synced": false,
+      "path": "select/05_Take_Me_To_The_Top_Samajona.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me To The Top",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/06_Take_Me_To_The_Top_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/07_Take_Me_to_the_Top_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me To The Top",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/08_Take_Me_To_The_Top_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take me to the top",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/09_Take_me_to_the_top_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Advance",
+      "has_synced": false,
+      "path": "select/10_Take_Me_to_the_Top_Advance.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take me to the top",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Take_me_to_the_top_ONE_OK_ROCK.txt"
+    }
+  ]
+}
